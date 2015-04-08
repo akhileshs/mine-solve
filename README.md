@@ -18,3 +18,9 @@ solution.foreach(x => println(x.mkString))
 ```
 
 prints the required solution.
+
+License
+========================================
+Copyright (c) 2015, Akhilesh Srikanth
+
+Distributed under the Eclipse Public License either version 1.0 or (at your option) any later version.

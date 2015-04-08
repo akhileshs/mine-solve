@@ -1,6 +1,8 @@
 package minesolve
 
 // author: Akhilesh Srikanth (akhilesh.srikanth@gmail.com)
+// status: experimental
+// license: see license in readme
 
 class MineSolver(input: String) {
   val grid = input.split("\n").map(_.toArray)
